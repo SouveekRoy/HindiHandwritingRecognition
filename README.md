@@ -23,6 +23,6 @@ You can install Conda for python which resolves all the dependencies for machine
 ## 1. Dataset- DHCD (Devnagari Character Dataset)
 ## 2. Images of size 32 X 32
 ## 3. Convolutional Network Support added.
-#Train Acuracy ~ 95%
-#Test Acuracy ~ 92%
+# Train Acuracy ~ 95%
+# Test Acuracy ~ 92%
 
